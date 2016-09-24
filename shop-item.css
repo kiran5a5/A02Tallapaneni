@@ -1,0 +1,125 @@
+/*!
+ * Start Bootstrap - Shop Item (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+body {
+    background-image: url("img.png");
+}
+
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #98fb98;
+}
+#navbarlist{
+    float: left;
+}
+.navbarlistclass {
+    background-color: #e6e6fa;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+li a:hover:not(.navbarlistclass) {
+    background-color: 		#ffffe0;
+}
+
+.headmain
+{
+width:800px;
+text-align:right;
+height:100px;
+}
+
+.fstcolumnhead
+{
+	width:600px;
+	text-align:right;
+}
+
+h2 {
+    text-align: center;
+	font-family: sans-serif;
+	font-style: oblique;	
+}
+
+h3   {color: yellow;	}
+	
+a:link {   color: green;}
+	
+a:visited {color: red;}
+
+a:hover {color: green;}
+
+a:active {color: blue;}
+
+p {
+    font-family: verdana;
+    font-size: 18px;
+}
+
+.contact
+{
+	background-color : white;
+	border-color : red;
+	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+	border-style: dashed;
+}
+
+#hobbies
+{
+	
+font-family: arial;
+list-style-type: square;
+}
+
+.tblHobbies {width:600px;}
+
+.tdhobbiestext{ width:400px;}
+
+.tdhobbiesvideo
+{
+	width:200px;
+	height:300px;
+}
